@@ -1,5 +1,4 @@
 # Estructura HASH
-### Walter Samuel Gómez Monroy  | 0907-22-2993
 
 ## Descripción
 Una tabla hash o mapa hash es una estructura de datos que asocia llaves o claves con valores. La operación principal que soporta de manera eficiente es la búsqueda: permite el acceso a los elementos (teléfono y dirección, por ejemplo) almacenados a partir de una clave generada usando el nombre, número de cuenta o id.
